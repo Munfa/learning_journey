@@ -20,6 +20,8 @@ print(f"\nFirst= {first}, Rest= {rest}")
 first, *middle, last = numbers
 print(f"First={first}, Middle={middle}, Last={last}")
 
+print("\n" + "=" * 40)
+
 #### Different number bases #####
 binary = 0b1010      # Binary (base 2) = 10
 octal = 0o17         # Octal (base 8) = 15
@@ -58,3 +60,4 @@ print(f"Imaginary part of z1= {z1.imag}")
 ##### divmod returns both quotient and remainder #####
 quotient, remainder = divmod(17, 5)
 print(f"\nQuotient= {quotient}, Remainder= {remainder}")
+
