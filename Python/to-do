@@ -1,12 +1,12 @@
 [] basics
-    [x] numbers
-    [x] strings
-    [x] booleans
-    [] type conversion
-    [] operators
-    [] conditionals
-    [] loops
-    [] functions
-    [] lists
-    [] dictionaries
-    [] exceptions
+    [x] numbers             [] conditionals             [] exceptions
+    [x] strings             [] loops                    [] sets
+    [x] booleans            [] functions   
+    [x] type conversion     [] lists
+    [] operators            [] dictionaries
+    
+
+    
+    
+    
+    
