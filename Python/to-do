@@ -3,7 +3,7 @@
     [x] strings             [] loops                    [] sets
     [x] booleans            [] functions   
     [x] type conversion     [] lists
-    [] operators            [] dictionaries
+    [x] operators           [] dictionaries
     
 
     
