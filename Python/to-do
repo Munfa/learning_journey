@@ -1,8 +1,8 @@
 [] basics
-    [x] numbers             [] conditionals             [] exceptions
-    [x] strings             [] loops                    [] sets
+    [x] numbers             [x] conditionals             [] exceptions
+    [x] strings             [x] loops                    [x] sets
     [x] booleans            [] functions   
-    [x] type conversion     [] lists
+    [x] type conversion     [x] lists
     [x] operators           [] dictionaries
     
 
