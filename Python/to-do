@@ -1,9 +1,9 @@
 [] basics
-    [x] numbers             [x] conditionals             [] exceptions
+    [x] numbers             [x] conditionals             [x] exceptions
     [x] strings             [x] loops                    [x] sets
-    [x] booleans            [] functions   
+    [x] booleans            [x] functions   
     [x] type conversion     [x] lists
-    [x] operators           [] dictionaries
+    [x] operators           [x] dictionaries
     
 
     
