@@ -1,4 +1,4 @@
-[] basics
+[x] basics
     [x] numbers             [x] conditionals             [x] exceptions
     [x] strings             [x] loops                    [x] sets
     [x] booleans            [x] functions   
@@ -6,7 +6,12 @@
     [x] operators           [x] dictionaries
     
 
-    
+[] dsa 
+    [x] arrays               [] queues
+    [] linked lists         [] binary search tree
+    [] hashmaps             [] sorting algorithms
+    [] heaps
+    [] stacks
     
     
     
